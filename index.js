@@ -1,5 +1,5 @@
 // 1. Create variables to store name, age, and nationality. Combine them into an introduction sentence.
-let name = "John Doe";
+let name = " Tersur Iorver";
 let age = 25;
 let nationality = "Nigerian";
 let introduction = `My name is ${name}, I am ${age} years old and I am ${nationality}.`;
@@ -38,14 +38,14 @@ let favoriteFoods = ["Mango", "Rice", "Orange", "Akpu", "Yam"]; // Array of favo
 console.log(`The first food is ${favoriteFoods[0]} and the last food is ${favoriteFoods[favoriteFoods.length - 1]}.`);
 
 // 7. Add two more food items: one at the beginning and one at the end. Display the new list.
-favoriteFoods.unshift("Banan"); // Add to the beginning
+favoriteFoods.unshift("Banana"); // Add to the beginning
 favoriteFoods.push("Corn"); // Add to the end
 console.log("The new list of favorite foods is: ", favoriteFoods);
 
 // 8. Create arrays for JSS One, JSS Two, and JSS Three students.
-let jssOne = ["Alice", "Ben", "Carol", "David", "Ella", "Frank", "Grace", "Hannah", "Ian", "Jack"];
-let jssTwo = ["Kate", "Leo", "Mia", "Nathan", "Olivia", "Paul", "Quinn", "Rachel", "Sam", "Tina"];
-let jssThree = ["Uma", "Victor", "Will", "Xander", "Yara", "Zoe", "Aaron", "Bella", "Chris", "Diana"];
+let jssOne = ["Tersur", "Ikechukwu", "Lanen", "David", "Ella", "Frank", "Grace", "Hannah", "Aondofa", "Jack"];
+let jssTwo = ["Kate", "Idris", "Fanen", "Nathan", "Olivia", "Paul", "Tersoo", "Rachel", "Ifiok", "Tina"];
+let jssThree = ["Olamide", "Victor", "Shola", "Iorver", "Aondohemba", "Muhammend", "Aaron", "Iorver", "Chris", "Ifanyi"];
 
 console.log("JSS One students: ", jssOne);
 console.log("JSS Two students: ", jssTwo);
